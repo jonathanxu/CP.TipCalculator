@@ -1,2 +1,1 @@
-CP.TipCalculator
-================
+## CP.TipCalculator
